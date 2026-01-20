@@ -1,0 +1,2 @@
+# automatic-number-plate-recognition
+Automatic License/Number Plate Recognition (ANPR) is the process of detecting position of number plate and then using Optical Character Recognition technique to identify the text on the plate from a image or video. It is widely used in video surveillance and for security purposes. 
